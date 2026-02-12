@@ -1,0 +1,2 @@
+-- Keymaps defined here are non-plugin keybindings.
+-- Plugin-specific keymaps live in their respective spec files.
